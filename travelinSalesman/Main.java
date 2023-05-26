@@ -20,6 +20,8 @@ public class Main {
         mainPanel.add(dataBoard);
 
 
+        System.out.println("salam");
+
         //create the frame and add the main panel to it
         JFrame frame = new JFrame("Traveling salesman");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
