@@ -12,6 +12,7 @@ public class Main {
 
         //create data board panel
         DataBoard dataBoard = new DataBoard();
+        //hgjhugu hjbjbjhb
 
         //create the main panel  and add the map and scoreboard panel to it
         JPanel mainPanel = new JPanel();
